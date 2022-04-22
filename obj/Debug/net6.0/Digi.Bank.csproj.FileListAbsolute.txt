@@ -1,0 +1,15 @@
+C:\Workspace\Digi.Bank\bin\Debug\net6.0\Digi.Bank.exe
+C:\Workspace\Digi.Bank\bin\Debug\net6.0\Digi.Bank.deps.json
+C:\Workspace\Digi.Bank\bin\Debug\net6.0\Digi.Bank.runtimeconfig.json
+C:\Workspace\Digi.Bank\bin\Debug\net6.0\Digi.Bank.dll
+C:\Workspace\Digi.Bank\bin\Debug\net6.0\ref\Digi.Bank.dll
+C:\Workspace\Digi.Bank\bin\Debug\net6.0\Digi.Bank.pdb
+C:\Workspace\Digi.Bank\obj\Debug\net6.0\Digi.Bank.csproj.AssemblyReference.cache
+C:\Workspace\Digi.Bank\obj\Debug\net6.0\Digi.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Digi.Bank\obj\Debug\net6.0\Digi.Bank.AssemblyInfoInputs.cache
+C:\Workspace\Digi.Bank\obj\Debug\net6.0\Digi.Bank.AssemblyInfo.cs
+C:\Workspace\Digi.Bank\obj\Debug\net6.0\Digi.Bank.csproj.CoreCompileInputs.cache
+C:\Workspace\Digi.Bank\obj\Debug\net6.0\Digi.Bank.dll
+C:\Workspace\Digi.Bank\obj\Debug\net6.0\ref\Digi.Bank.dll
+C:\Workspace\Digi.Bank\obj\Debug\net6.0\Digi.Bank.pdb
+C:\Workspace\Digi.Bank\obj\Debug\net6.0\Digi.Bank.genruntimeconfig.cache
